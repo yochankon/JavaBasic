@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
 public class EnumChange {
+
     enum CofferType{
         AMERICANO,
         ICE_AMERICANO,
